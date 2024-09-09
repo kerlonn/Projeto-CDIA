@@ -2,7 +2,7 @@
 
 ## Integrantes
 - Kerlon Fabricio Fernandes
-- Arthur Soares
+- José Arthur Soares Afreu
 
 ## Perguntas
 1. As reduções nas emissões de CO2 no Brasil coincidem com a implementação de políticas públicas ambientais? 
